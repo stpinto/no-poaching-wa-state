@@ -1,2 +1,2 @@
 # no-poaching-wa-state
-Replication code for REStat no-poaching article
+This repository includes all the do-files that replicate all the tables and figures that use BGT/Lightcast data in the WA no-poaching article. 

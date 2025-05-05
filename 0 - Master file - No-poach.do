@@ -17,7 +17,7 @@ global file_path 	"${master_path}/do files"
 *------------------------------------------------------------------------------*
 
 * a) Generate: auxiliary data sets, to be merged later with BGT data
-*do "${file_path}/A0 - Install Stata commands"
+do "${file_path}/A0 - Install Stata commands"
 
 // i) 	Deflator, crosswalk, list of chains and dates
 do "${file_path}/A1 - deflator pcepi"
